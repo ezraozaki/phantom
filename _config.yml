@@ -30,8 +30,8 @@ plugins:
 
 ### Phantom settings
 paginate: 10
-footer_text: '© 2018 Ezra Huynh'
-admin_name: 'Ezra'
+footer_text: '© 2019 Ezra Huynh'
+admin_name: 'Ezra Huynh'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
@@ -39,4 +39,5 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
+  - { url: '/research', text: 'Research' }
   - { url: '/about', text: 'About' }
