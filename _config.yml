@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Ezra."
 email: 'thuah@uci.edu'
-description: "A lonely rain lover"
+description: "Testing"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ezraozaki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+twitter_username: ''
+github_username: ''
+medium_username: ''
 
 # Build settings
 markdown: kramdown
