@@ -17,7 +17,7 @@ title: "Hello. I'm Ezra."
 email: 'thuah@uci.edu'
 description: "A lonely rain lover"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.linkedin.com/in/ezraozaki" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ezraozaki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'jamigibbs'
 github_username: 'jamigibbs'
 medium_username: 'blog.jamigibbs.com'
