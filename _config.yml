@@ -19,7 +19,7 @@ description: "Testing"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ezraozaki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
-github_username: ''
+github_username: 'hh'
 medium_username: ''
 linkedin_username: 'c'
 
