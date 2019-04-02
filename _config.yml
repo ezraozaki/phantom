@@ -21,7 +21,7 @@ url: "https://ezraozaki.github.io" # the base hostname & protocol for your site,
 twitter_username: ''
 github_username: 'ezraozaki'
 medium_username: ''
-
+linkedin-square: https://linkedin.com/in/ezraozaki
 
 # Build settings
 markdown: kramdown
